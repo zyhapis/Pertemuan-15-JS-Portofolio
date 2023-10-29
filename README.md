@@ -1,3 +1,7 @@
+# WEB PREVIEW
+
+![localhost_3000_](https://github.com/zyhapis/Pertemuan-15-JS-Portofolio/assets/144297795/09f7e5b7-529c-48d0-9c98-62574d89d78a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
